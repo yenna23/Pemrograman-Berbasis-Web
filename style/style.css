@@ -1,0 +1,34 @@
+.border{
+    box-shadow: rgb(0 0 0 / 7%) 0px 4px 6px -1px;
+  }
+
+
+.slide{
+  margin-top: 50px;
+}
+
+.imageslider{
+  border-radius: 10px;
+}
+
+.aksesoris{
+  text-align: center;
+}
+
+.kategoriproduk{
+  border: 0.5px solid rgb(229, 231, 233);
+  border-radius: 10px;
+  margin-right: 5px;
+  margin-left: 20px;
+}
+.tabnew{
+  box-shadow: rgb(49 53 59 / 12%) 0px 1px 6px 0px;
+    background-color: rgb(255, 255, 255);
+    padding: 16px;
+    margin-bottom: 24px;
+    border-radius: 12px;
+    margin-top: 60px;
+}
+.produk{
+  margin-top: 40px;
+}
